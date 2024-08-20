@@ -31,7 +31,7 @@ The first dashboard provides a comprehensive view of call centre metrics, focusi
 Access [here](https://www.novypro.com/project/pwc-switzerland-virtual-case-experience---task-1-call-center-trends-power-bi) for live and interactive dashboards.
 
 <p align="center">
-    <img src="README%20assests/Call%20Centre%20Trends-1.png" alt="Call Centre Trends" style="width: 80%"/>
+    <img src="Call%20Centre%20Trends-1.png" alt="Call Centre Trends" style="width: 80%"/>
 </p>
 
 ### Customer Retention
@@ -41,11 +41,11 @@ This dashboard was developed in response to a request from the telecom's Retenti
 Access [here](https://www.novypro.com/project/pwc-switzerland-virtual-case-experience---task-2-customer-churn-and-risk-analysis-power-bi) for live and interactive dashboards.
 
 <p align="center">
-    <img src="README%20assests/Customer%20Churn%20and%20Risk%20Analysis-1.png" alt="Customer Retention 1" style="width: 80%"/>
+    <img src="Customer%20Churn%20and%20Risk%20Analysis-1.png" alt="Customer Retention 1" style="width: 80%"/>
 </p>
 
 <p align="center">
-    <img src="README%20assests/Customer%20Churn%20and%20Risk%20Analysis-2.png" alt="Customer Retention 2" style="width: 80%"/>
+    <img src="Customer%20Churn%20and%20Risk%20Analysis-2.png" alt="Customer Retention 2" style="width: 80%"/>
 </p>
 
 ### Diversity & Inclusion
@@ -55,9 +55,9 @@ Focusing on the telecom client's goal of improving gender balance at the executi
 Access [here](https://www.novypro.com/project/pwc-switzerland-virtual-case-experience---task-3-diversity--inclusion-power-bi) for live and interactive dashboards.
 
 <p align="center">
-    <img src="README%20assests/Diversity%20&%20Inclusion-1.png" alt="Diversity & Inclusion 1" style="width: 80%"/>
+    <img src="Diversity%20&%20Inclusion-1.png" alt="Diversity & Inclusion 1" style="width: 80%"/>
 </p>
 
 <p align="center">
-    <img src="README%20assests/Diversity%20&%20Inclusion-2.png" alt="Diversity & Inclusion 2" style="width: 80%"/>
+    <img src="Diversity%20&%20Inclusion-2.png" alt="Diversity & Inclusion 2" style="width: 80%"/>
 </p>
